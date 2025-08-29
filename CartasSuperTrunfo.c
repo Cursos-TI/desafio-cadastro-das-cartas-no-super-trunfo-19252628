@@ -4,7 +4,7 @@ int main() {
 
     // Declara as variáveis
 
-    char estado1, estado2;a
+    char estado1, estado2;
     char codigo1[4], codigo2[4];
     char nome_cidade1[255], nome_cidade2[255];
     int populacao1, populacao2;
